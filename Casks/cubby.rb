@@ -1,6 +1,6 @@
 cask "cubby" do
-  version "0.2.0"
-  sha256 "2367659f9609102aeb1b633f2f9bd6ba52dea7f7c4256b7d49e518adde6b4c4e"
+  version "0.2.1"
+  sha256 "07d70d0a182fd2130f446dd264edf501f348ce837a2eff87fb799bdf6c4b8936"
 
   url "https://github.com/no1coder/cubby/releases/download/v#{version}/Cubby-#{version}.dmg"
   name "Cubby"
